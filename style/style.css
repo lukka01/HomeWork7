@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+header{
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    text-align: center;
+}
+h1{
+    font-size: 20px;
+    padding-left: 82px;  
+}
+h1 a{
+    color: black;
+    font-weight: 900;
+}
+
+header nav{
+    width: 564px; 
+    margin-left: 218px;
+    align-items: center;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header ul  a{
+    padding: 5px 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+.home{
+    border-bottom: 2px solid black;
+}
+
+.about{
+    border-bottom: 2px solid black;
+}
+
+.switch{
+    padding-left: 94px;
+    font-size: 24px;
+   
+}
+.ordera{
+   width: 180px;
+   height: 50px;
+   font-size: 20px;
+   font-weight: 900;
+   background-color: #FDC72D;
+   border-radius: 62px;
+   margin-left: 102px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: -16px;
+}
+.ordera a{
+    color: black;
+}
+
+/* aqana iwyeba maini */
+main{
+    display: flex;
+    flex-direction: row;
+    padding-left: 74px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cont2{
+    background-image: url(../images/glovo\ 2.png);
+    width: 676px;
+    height: 506px;
+    
+}
+.cont3{
+    width: 510px;
+    height: 270px;
+    margin-left: 100px;
+    padding-right: 46px;
+}
+.text2{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.text3{
+    font-size: 20px;
+    color: #777776;
+    margin-top: 50px;
+}
+
+.cont4{
+    display: flex;
+    align-content: space-between;
+    width: 400px;
+    flex-direction: column;
+    padding-right: 30px;
+    
+
+}
+.cont5{
+    width: 746px;
+    height: 490px;
+    background-image: url(../images/glovo3.png);
+    margin-left: 40px;
+}
+
+.text4{
+    font-size: 40px ;
+    color: black;  
+    font-weight: 900; 
+}
+
+.text5{
+    font-size: 20px;
+    color: #777776;
+    margin-top: 44px;
+}
+
+
+.products{
+    width: 466px; 
+    align-content: space-between; 
+    margin-left: 12px; 
+    margin-bottom: 200px;
+}
+.logo2{
+    width: 180px;
+    padding: 14px;
+    background-color: #FDC72D;
+    display: flex;
+    justify-content: center;
+    border-radius: 61px;
+    margin-top: 60px;
+
+}
+.start a{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+
+.order{
+    font-size: 60px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.nacari{
+    width: 405px;
+    padding-right: 80px;
+}
+.stxt{
+    font-size: 20px;
+    color: #777776;
+    
+}
+.glovo{
+    width: 854px;
+    height: 720px;
+    background-image: url(../images/glovo.png);
+}
+
+
+
+
+
+
+
+
+
